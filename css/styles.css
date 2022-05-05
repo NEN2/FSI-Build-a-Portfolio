@@ -1,5 +1,5 @@
 div {
-    background-color: lightblue;
-    text-align: center;
-  }
-  
+    line-height: 1.8em;
+    background: darkblue;
+    border-style: solid;
+}
