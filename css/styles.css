@@ -1,6 +1,6 @@
-.body{
-    background-color: powderblue;
-}
-H1{
-    color: darkblue;
-}
+.MyDiv {
+    border: 5px outset red;
+    background-color: lightblue;
+    text-align: center;
+  }
+  
