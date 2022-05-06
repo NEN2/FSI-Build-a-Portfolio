@@ -1,5 +1,4 @@
 div {
-    line-height: 1.8em;
-    background: darkblue;
-    border-style: solid;
+    background: lightyellow;
+    font: 18px Arial, sans-serif;
 }
